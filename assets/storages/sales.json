@@ -1,0 +1,30 @@
+{
+  "year":{
+    "2020":{
+      "product_target":"1000000",
+      "sale_target":"200000000",
+      "month":[
+        {
+          "id":"5736287943-506096",
+          "month":"Jan",
+          "month_sale_target":"10000000",
+          "province":[
+            {
+              "id":"i02203000203993949",
+              "name":"Vientiane",
+              "sales":[
+                {
+                  "productID":"0203-20-40-0-40-",
+                  "ProductName":"ເວລາໄຂ້ໄອ ເມັດ/ແຜງວຽງທອງ",
+                  "price":"10000",
+                  "qty":"20"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+
+  }
+}
